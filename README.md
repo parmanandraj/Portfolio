@@ -23,7 +23,7 @@ My portfolio
 ### 🌟 Developer Portfolio Website
 A sleek, modern, and responsive personal portfolio website designed to showcase my skills, projects, and professional journey.
 * **Tech Stack:** HTML5, CSS3, JavaScript
-* **Live Demo:** [View Live App](https://parmanandraj.github.io/Portfolio/) *(Note: Host karne ke baad aap is link ko update kar sakte hain)*
+* **Live Demo:** [View Live App](https://parmanandraj.github.io/Portfolio/)
 * **Source Code:** [GitHub Repository](https://github.com/parmanandraj/Portfolio)
 
 ---

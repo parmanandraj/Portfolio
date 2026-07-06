@@ -24,15 +24,7 @@ My portfolio
 A sleek, modern, and responsive personal portfolio website designed to showcase my skills, projects, and professional journey.
 * **Tech Stack:** HTML5, CSS3, JavaScript
 * **Live Demo**: [Portfolio Link](https://parmanandportfolio908.netlify.app)
-* **Source Code:** [GitHub Repository](https://github.com/parmanandraj/Portfolio)
-
----
-
-## 📈 GitHub Stats
-
-![Parmanand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=parmanandraj&show_icons=true&theme=dark)
-
----
+* **Source Code:** [GitHub Repository](https://github.com/parmanandraj/Portfolo/)
 
 ## 📫 Connect with Me
 
